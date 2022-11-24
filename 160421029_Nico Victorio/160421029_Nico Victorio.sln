@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "160421029_Nico Victorio", "160421029_Nico Victorio\160421029_Nico Victorio.csproj", "{9E3E832B-353D-4790-AD06-D076C80A6C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiBa_Lib", "DiBa_Lib\DiBa_Lib.csproj", "{6F460DB7-11BA-4677-AAF6-92F2872970AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3E832B-353D-4790-AD06-D076C80A6C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3E832B-353D-4790-AD06-D076C80A6C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3E832B-353D-4790-AD06-D076C80A6C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3E832B-353D-4790-AD06-D076C80A6C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F460DB7-11BA-4677-AAF6-92F2872970AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F460DB7-11BA-4677-AAF6-92F2872970AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F460DB7-11BA-4677-AAF6-92F2872970AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F460DB7-11BA-4677-AAF6-92F2872970AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77353BB-7C2C-4E8A-9B61-73D1CD66D996}
+	EndGlobalSection
+EndGlobal

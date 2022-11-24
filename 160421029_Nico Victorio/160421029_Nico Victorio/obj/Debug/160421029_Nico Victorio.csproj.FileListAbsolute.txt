@@ -1,0 +1,19 @@
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\160421029_Nico Victorio.exe.config
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\160421029_Nico Victorio.exe
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\160421029_Nico Victorio.pdb
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.csproj.AssemblyReference.cache
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.Properties.Resources.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.csproj.GenerateResource.cache
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.csproj.CoreCompileInputs.cache
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.exe
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.pdb
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormMenu.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormPosition.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormTambahPosition.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormUpdatePosition.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormJenisTransaksi.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\_160421029_Nico_Victorio.FormLogin.resources
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\DiBa_Lib.dll
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\MySql.Data.dll
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\bin\Debug\DiBa_Lib.pdb
+G:\My Drive\Kuliah Nico\Semester 3\Database E\Project UAS\160421029_Nico Victorio\160421029_Nico Victorio\obj\Debug\160421029_Nico Victorio.csproj.CopyComplete
